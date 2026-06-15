@@ -1,16 +1,22 @@
-# React + Vite
+# सूर्यपुरा ग्राम विकास पोर्टल (Suryapura Gram Vikas Portal)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fictional rural development demo built as a single-page React application for the Creative Website Developer assignment at Channel009.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+****
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📱 Deliverables Included
+- **Live Website Demo:** Deployed via Vercel (link above).
+- **Hero Banner:** Implemented with earthy tones, modern glassmorphism, and a visionary rural leader theme.
+- **Mobile View Screenshot:** Included in this repository (`mobile-screenshot.png`).
+- **Social Media Posts:** 2 Canva designs included in this repository.
 
-## React Compiler
+## 🎨 Design & Technical Choices
+Focusing on earthy colors (stone, amber, emerald), a mobile-first linear UX, local Hindi typography (Mukta/Tiro Devanagari) for emotional connection, and optimized load times using Tailwind CSS. 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The UI features modern CSS animations, including 3D card hover effects, an illuminated pulse for statistics, and scroll-reveal intersection observers to make the portal feel premium, clean, and highly professional.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- React (Vite)
+- Tailwind CSS v4
+- Intersection Observer API (Native scroll animations)
