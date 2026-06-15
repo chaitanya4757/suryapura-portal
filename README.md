@@ -3,7 +3,7 @@
 A fictional rural development demo built as a single-page React application for the Creative Website Developer assignment at Channel009.
 
 ## 🔗 Live Demo
-****
+**https://suryapura-portal-ivory.vercel.app/**
 
 ## 📱 Deliverables Included
 - **Live Website Demo:** Deployed via Vercel (link above).
