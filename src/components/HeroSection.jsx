@@ -1,4 +1,4 @@
-import leaderImg from '../assets/leader.png';
+import leaderImg from '../assets/Leader.png';
 
 const HeroSection = () => {
   return (
